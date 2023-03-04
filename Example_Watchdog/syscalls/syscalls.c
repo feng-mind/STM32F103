@@ -109,5 +109,10 @@ void abort(void)
     /* Abort called */
     while(1);
 }
-
+    
+void hello(void)
+{
+    //do nothing
+    
+}
 /* --------------------------------- End Of File ------------------------------ */
