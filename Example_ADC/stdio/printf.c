@@ -10,7 +10,7 @@
 
 /**
  * @brief  Transmit a char, if you want to use printf(), 
- *         you need implement this function
+ *         you need implement this function youself
  *
  * @param  pStr	Storage string.
  * @param  c    Character to write.
